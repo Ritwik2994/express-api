@@ -1,0 +1,29 @@
+{
+	"root": true,
+	"parser": "@typescript-eslint/parser",
+	"plugins": [
+		"@typescript-eslint"
+	],
+	"extends": [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/eslint-recommended",
+		"plugin:@typescript-eslint/recommended"
+	],
+	"rules": {
+		"max-line-length": {
+				"options": [120]
+		},
+		"new-parens": 1,
+		"no-arg": 1,
+		"no-bitwise": 1,
+		"no-conditional-assignment": true,
+		"no-consecutive-blank-lines": false,
+		"no-console": 0
+	},
+
+	"jsRules": {
+		"max-line-length": {
+				"options": [120]
+		}
+	}
+}
