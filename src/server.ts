@@ -2,11 +2,11 @@ import express, { Request, Response } from 'express'
 import helmet from 'helmet'
 import http from 'http'
 
-import { errorHandler } from '@utils'
+import 'module-alias/register'
+import { errorHandler, logger } from '@utils'
 import routes from './api'
-import { logger } from './utils/logger'
 
-const server = () => {
+(async function main() {
     try {
          // initialising express server
         const app = express()
@@ -37,22 +37,18 @@ const server = () => {
         // Starting the express server
         httpServer.listen(PORT)
 
-        httpServer.on('listining', () => {
-            // console.log(`node server is listening on port ${PORT} in ${process.env.NODE_ENV} mode`)
+        httpServer.on('listening', () => {
             logger.info(`node server is listening on port ${PORT} in ${process.env.NODE_ENV} mode`)
         })
 
+        // when server close then it will also close DB connection
         httpServer.on('close', () => {
-            // console.log('node server closed')
             logger.info('node server closed')
         })
-
-        return httpServer
 
     } catch (err) {
         console.error(err)
         logger.error(err)
     }
    
-}
-
+})()

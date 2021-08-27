@@ -2,7 +2,7 @@ import { BadRequestError } from '@errors'
 import { Request } from 'express'
 import { Result, ValidationError, validationResult } from 'express-validator'
 
-const handleValidationErrors = (req: Request) => {
+const handleValidationError = (req: Request) => {
 	const validationErrors: Result<ValidationError> = validationResult(req);
 	if (!validationErrors.isEmpty()) {
 		throw new BadRequestError(
@@ -13,4 +13,4 @@ const handleValidationErrors = (req: Request) => {
 	}
 }
 
-export default handleValidationErrors
+export default handleValidationError

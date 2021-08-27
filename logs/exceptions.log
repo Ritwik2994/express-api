@@ -1,0 +1,228 @@
+2021-08-27 15:46:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:47:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:49:12 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:49:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:53:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:53:22 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:53:56 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:54:02 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:54:22 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 15:55:58 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/middleware/rateLimit.ts(1,23): error TS7016: Could not find a declaration file for module 'express-rate-limit'. 'E:/Project/Full-Stack/express-api/node_modules/express-rate-limit/lib/express-rate-limit.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express-rate-limit` if it exists or add a new declaration (.d.ts) file containing `declare module 'express-rate-limit';`
+
+    at createTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:692:12)
+    at reportTSError (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:696:19)
+    at getOutput (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:883:36)
+    at Object.compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1185:30)
+    at Module.m._compile (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1309:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (E:\Project\Full-Stack\express-api\node_modules\ts-node\src\index.ts:1313:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-08-27 17:08:42 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at E:\Project\Full-Stack\express-api\src\server.ts:39:20
+    at Generator.next (<anonymous>)
+    at E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:115:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:111:16)
+    at main (E:\Project\Full-Stack\express-api\src\server.ts:12:20)
+    at Object.<anonymous> (E:\Project\Full-Stack\express-api\src\server.ts:56:3)
+2021-08-27 17:09:58 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at E:\Project\Full-Stack\express-api\src\server.ts:39:20
+    at Generator.next (<anonymous>)
+    at E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:115:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:111:16)
+    at main (E:\Project\Full-Stack\express-api\src\server.ts:12:20)
+    at Object.<anonymous> (E:\Project\Full-Stack\express-api\src\server.ts:56:3)
+2021-08-27 17:11:26 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at E:\Project\Full-Stack\express-api\src\server.ts:39:20
+    at Generator.next (<anonymous>)
+    at E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:115:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:111:16)
+    at main (E:\Project\Full-Stack\express-api\src\server.ts:12:20)
+    at Object.<anonymous> (E:\Project\Full-Stack\express-api\src\server.ts:56:3)
+2021-08-27 17:13:35 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at E:\Project\Full-Stack\express-api\src\server.ts:39:20
+    at Generator.next (<anonymous>)
+    at E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:115:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (E:\Project\Full-Stack\express-api\node_modules\tslib\tslib.js:111:16)
+    at main (E:\Project\Full-Stack\express-api\src\server.ts:12:20)
+    at Object.<anonymous> (E:\Project\Full-Stack\express-api\src\server.ts:56:3)
