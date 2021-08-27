@@ -7,3 +7,8 @@ build/
 # dotenv environment variables file
 .env
 .env.docker
+
+# log files
+logs/
+logs
+*.log

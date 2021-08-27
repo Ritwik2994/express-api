@@ -42,9 +42,9 @@ import routes from './api'
         })
 
         // when server close then it will also close DB connection
-        httpServer.on('close', () => {
-            logger.info('node server closed')
-        })
+        // httpServer.on('close', () => {
+        //     logger.info('node server closed')
+        // })
 
     } catch (err) {
         console.error(err)
