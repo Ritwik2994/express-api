@@ -18,3 +18,116 @@
 2021-08-27 18:11:16 info: node server is listening on port 5000 in development mode
 2021-08-27 18:12:57 info: node server is listening on port 5000 in development mode
 2021-08-27 18:15:16 info: node server is listening on port 5000 in development mode
+2021-08-27 18:23:23 info: node server is listening on port 5000 in development mode
+2021-08-27 22:23:02 info: node server is listening on port 5000 in development mode
+2021-08-27 22:24:31 info: node server is listening on port 5000 in development mode
+2021-08-27 22:25:35 info: node server is listening on port 5000 in development mode
+2021-08-27 22:26:09 info: node server is listening on port 5000 in development mode
+2021-08-27 22:38:40 info: node server is listening on port 5000 in development mode
+2021-08-27 22:39:55 info: node server is listening on port 5000 in development mode
+2021-08-27 22:40:32 info: node server is listening on port 5000 in development mode
+2021-08-27 22:41:13 info: node server is listening on port 5000 in development mode
+2021-08-27 22:41:47 info: node server is listening on port 5000 in development mode
+2021-08-27 22:42:41 info: node server is listening on port 5000 in development mode
+2021-08-27 22:43:34 info: node server is listening on port 5000 in development mode
+2021-08-27 22:45:09 info: node server is listening on port 5000 in development mode
+2021-08-27 22:45:33 info: node server is listening on port 5000 in development mode
+2021-08-27 22:46:29 info: node server is listening on port 5000 in development mode
+2021-08-27 22:47:46 info: node server is listening on port 5000 in development mode
+2021-08-27 22:47:54 info: node server is listening on port 5000 in development mode
+2021-08-27 22:48:02 info: node server is listening on port 5000 in development mode
+2021-08-27 22:49:16 info: node server is listening on port 5000 in development mode
+2021-08-27 22:51:04 info: node server is listening on port 5000 in development mode
+2021-08-27 22:55:10 info: node server is listening on port 5000 in development mode
+2021-08-27 22:55:52 info: node server is listening on port 5000 in development mode
+2021-08-28 08:12:45 info: node server is listening on port 5000 in development mode
+2021-08-28 08:17:29 info: node server is listening on port 5000 in development mode
+2021-08-28 08:18:17 info: node server is listening on port 5000 in development mode
+2021-08-28 08:28:28 info: node server is listening on port 5000 in development mode
+2021-08-28 08:32:39 info: node server is listening on port 5000 in development mode
+2021-08-28 08:33:35 info: node server is listening on port 5000 in development mode
+2021-08-28 08:34:25 info: node server is listening on port 5000 in development mode
+2021-08-28 08:35:20 info: node server is listening on port 5000 in development mode
+2021-08-28 08:35:50 info: node server is listening on port 5000 in development mode
+2021-08-28 08:36:02 info: node server is listening on port 5000 in development mode
+2021-08-28 08:36:42 info: node server is listening on port 5000 in development mode
+2021-08-28 08:37:53 info: node server is listening on port 5000 in development mode
+2021-08-28 08:38:25 info: node server is listening on port 5000 in development mode
+2021-08-28 08:38:36 info: node server is listening on port 5000 in development mode
+2021-08-28 08:39:10 info: node server is listening on port 5000 in development mode
+2021-08-28 08:39:23 info: node server is listening on port 5000 in development mode
+2021-08-28 08:39:35 info: node server is listening on port 5000 in development mode
+2021-08-28 08:39:51 info: node server is listening on port 5000 in development mode
+2021-08-28 08:40:05 info: node server is listening on port 5000 in development mode
+2021-08-28 08:40:39 info: node server is listening on port 5000 in development mode
+2021-08-28 08:40:59 info: node server is listening on port 5000 in development mode
+2021-08-28 08:41:18 info: node server is listening on port 5000 in development mode
+2021-08-28 08:41:37 info: node server is listening on port 5000 in development mode
+2021-08-28 08:41:46 info: node server is listening on port 5000 in development mode
+2021-08-28 08:41:59 error: POST - /auth/signup
+2021-08-28 08:41:59 error:   [0m[97m[41mBadRequestError[0m[90m:[0m[37m [0m[97mValidation Error[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mhandleValidationError.ts[0m[90m:[0m[93m8[0m[37m [0m[37mObject.handleValidationError [as handleValidation[0m  [0m  [0m[37mErrors][0m
+[0m  [0m  [0m[90mE:/Project/Full-Stack/express-api/src/utils/handleValidationError.ts:8:9[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mauthentication.ts[0m[90m:[0m[93m23[0m[37m [0m
+[0m  [0m  [0m[90mE:/Project/Full-Stack/express-api/src/api/authentication.ts:23:4[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[37mGenerator.next[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mtslib.js[0m[90m:[0m[93m115[0m[37m [0m
+[0m  [0m  [0m[90m[express-api]/[tslib]/tslib.js:115:75[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[37mnew Promise[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mtslib.js[0m[90m:[0m[93m111[0m[37m [0m[37mObject.__awaiter[0m
+[0m  [0m  [0m[90m[express-api]/[tslib]/tslib.js:111:16[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mauthentication.ts[0m[90m:[0m[93m21[0m[37m [0m
+[0m  [0m  [0m[90mE:/Project/Full-Stack/express-api/src/api/authentication.ts:21:60[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mlayer.js[0m[90m:[0m[93m95[0m[37m [0m[37mLayer.handle [as handle_request][0m
+[0m  [0m  [0m[90m[express-api]/[express]/lib/router/layer.js:95:5[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mroute.js[0m[90m:[0m[93m137[0m[37m [0m[37mnext[0m
+[0m  [0m  [0m[90m[express-api]/[express]/lib/router/route.js:137:13[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mcheck.js[0m[90m:[0m[93m16[0m[37m [0m[37mmiddleware[0m
+[0m  [0m  [0m[90m[express-api]/[express-validator]/src/middlewares/check.js:16:13[0m
+[0m  [0m
+[0m
+2021-08-28 08:43:19 info: node server is listening on port 5000 in development mode
+2021-08-28 08:43:51 error: POST - /auth/signup
+2021-08-28 08:43:51 error:   [0m[97m[41mBadRequestError[0m[90m:[0m[37m [0m[97mValidation Error[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mhandleValidationError.ts[0m[90m:[0m[93m8[0m[37m [0m[37mObject.handleValidationError [as handleValidation[0m  [0m  [0m[37mErrors][0m
+[0m  [0m  [0m[90mE:/Project/Full-Stack/express-api/src/utils/handleValidationError.ts:8:9[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mauthentication.ts[0m[90m:[0m[93m23[0m[37m [0m
+[0m  [0m  [0m[90mE:/Project/Full-Stack/express-api/src/api/authentication.ts:23:4[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[37mGenerator.next[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mtslib.js[0m[90m:[0m[93m115[0m[37m [0m
+[0m  [0m  [0m[90m[express-api]/[tslib]/tslib.js:115:75[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[37mnew Promise[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mtslib.js[0m[90m:[0m[93m111[0m[37m [0m[37mObject.__awaiter[0m
+[0m  [0m  [0m[90m[express-api]/[tslib]/tslib.js:111:16[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mauthentication.ts[0m[90m:[0m[93m21[0m[37m [0m
+[0m  [0m  [0m[90mE:/Project/Full-Stack/express-api/src/api/authentication.ts:21:60[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mlayer.js[0m[90m:[0m[93m95[0m[37m [0m[37mLayer.handle [as handle_request][0m
+[0m  [0m  [0m[90m[express-api]/[express]/lib/router/layer.js:95:5[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mroute.js[0m[90m:[0m[93m137[0m[37m [0m[37mnext[0m
+[0m  [0m  [0m[90m[express-api]/[express]/lib/router/route.js:137:13[0m
+[0m  [0m
+[0m  [0m[90m-[0m [0m[93mcheck.js[0m[90m:[0m[93m16[0m[37m [0m[37mmiddleware[0m
+[0m  [0m  [0m[90m[express-api]/[express-validator]/src/middlewares/check.js:16:13[0m
+[0m  [0m
+[0m
+2021-08-28 08:45:01 info: node server is listening on port 5000 in development mode
+2021-08-28 08:45:33 info: node server is listening on port 5000 in development mode

@@ -4,6 +4,16 @@ import { body } from "express-validator";
 
 const router: Router = Router();
 
+// router.get('/', async (_: Request, res: Response, next: NextFunction) => {
+// 	try {
+// 		res.status(200).send({
+// 			success: true,
+// 		});
+// 	} catch (err) {
+// 		next(err)
+// 	}
+// });
+
 // API
 router.post(
 	"/signup",
@@ -15,19 +25,19 @@ router.post(
 				success: true,
 			});
 		} catch (err) {
-			next(err);
+			next(err)
 		}
 	}
 );
 
-router.post("/login", async (_: Request, res: Response, next: NextFunction) => {
+router.post('/login', async (_: Request, res: Response, next: NextFunction) => {
 	try {
 		res.status(200).send({
 			success: true,
 		});
 	} catch (err) {
-		next(err);
+		next(err)
 	}
 });
 
-export default router;
+export default router
