@@ -9,6 +9,7 @@ build/
 .env.docker
 
 # log files
-logs/
+
 logs
 *.log
+npm-debug.log*
