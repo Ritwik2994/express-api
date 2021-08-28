@@ -1,4 +1,4 @@
 export interface Logger {
-    error: Function;
-    info: Function;
+	error: Function;
+	info: Function;
 }
