@@ -4,7 +4,7 @@ import http from 'http';
 
 import 'module-alias/register';
 import { errorHandler, logger } from '@utils';
-import routes from './api';
+import routes from './api/routes';
 
 (async function main() {
 	try {
