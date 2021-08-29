@@ -4,12 +4,13 @@ import http from 'http';
 
 import 'module-alias/register';
 import { errorHandler, logger } from '@utils';
-import routes from './api/routes';
+// import routes from './api/routes';
+import { Server } from './api/server'
 
 (async function main() {
 	try {
 		//initialising express server
-		const app = express();
+		const app: express.Application = new Server().app
 		const httpServer = http.createServer(app);
 
 		//assigning port
@@ -25,14 +26,14 @@ import routes from './api/routes';
 			next();
 		});
 
-		app.use(express.json());
-		app.use(helmet());
+		// app.use(express.json());
+		// app.use(helmet());
 
-		//Routes
-		app.use('/', routes);
-		app.get('/test', (_, res) => res.status(200).send({ success: true }));
-		app.get('*', (_, res) => res.status(404).send('404 Not Found'));
-		app.use(errorHandler);
+		// //Routes
+		// app.use('/', routes);
+		// app.get('/test', (_, res) => res.status(200).send({ success: true }));
+		// app.get('*', (_, res) => res.status(404).send('404 Not Found'));
+		// app.use(errorHandler);
 
 		// Starting the express server
 		httpServer.listen(PORT);

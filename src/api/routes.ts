@@ -1,18 +1,27 @@
 import { Request, Response, NextFunction, Router } from 'express';
-import AuthRoutes from './components/auth/routes';
 
-const router: Router = Router();
+import { registerApiRoutes } from './components';
+import { registerMiddleware, registerErrorHandler } from './middleware';
 
-router.use('/auth', AuthRoutes);
 
-router.get('/', async (_: Request, res: Response, next: NextFunction) => {
-	try {
-		res.status(200).send({
-			success: true
-		});
-	} catch (err) {
-		next(err);
-	}
-});
 
-export default router;
+export function initRestRoutes(router: Router): void {
+	//prefix for url
+	const prefix: string = '/api'
+
+	router.get('/', (req: Request, res: Response) => res.send('Working'))
+	router.get(prefix,  async (_: Request, res: Response, next: NextFunction) => {
+		try {
+			res.status(200).send({
+				success: true,
+				message: 'hello world'
+			});
+		} catch (err) {
+			next(err);
+		}
+	})
+
+	registerMiddleware(router)
+	registerApiRoutes(router, prefix)
+	registerErrorHandler(router)
+}
